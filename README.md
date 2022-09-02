@@ -6,7 +6,7 @@ Applying bootstrap-project.
 -add html tags to my page.
 -applied a background
 -applied icons to my page
--styled using css style
+-styled using bootstrap
 -Applied linters to my project
 -created a .gitingnore file.
 
