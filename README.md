@@ -28,6 +28,13 @@ Applying bootstrap-project.
 
 - run live server
 
+## 👤 Authors
+
+👤 IRADUKUNDA Pacific Rugwizangoga
+
+- GitHub: [@githubhandle](https://github.com/rugwizangoga)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
+
 👤 Nowembabazi Nickson
 
 - GitHub: [@githubhandle](https://github.com/Nowembabazi)
