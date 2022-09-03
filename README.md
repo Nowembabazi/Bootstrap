@@ -28,7 +28,7 @@ Applying bootstrap-project.
 
 - run live server
 
-## 👤 Author
+## 👤 Authors
 
 👤 IRADUKUNDA Pacific Rugwizangoga
 
